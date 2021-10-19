@@ -1,0 +1,5 @@
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\bin\Release\projSoma.exe
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\bin\Release\projSoma.pdb
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Release\projSoma.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Release\projSoma.exe
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Release\projSoma.pdb

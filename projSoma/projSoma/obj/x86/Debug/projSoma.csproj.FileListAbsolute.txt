@@ -1,0 +1,11 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\bin\Debug\projSoma.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\bin\Debug\projSoma.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\obj\x86\Debug\projSoma.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\obj\x86\Debug\projSoma.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\obj\x86\Debug\projSoma.csprojResolveAssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\bin\Debug\projSoma.exe
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\bin\Debug\projSoma.pdb
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Debug\projSoma.csproj.AssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Debug\projSoma.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Debug\projSoma.exe
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-20211015\projSoma\projSoma\obj\x86\Debug\projSoma.pdb
